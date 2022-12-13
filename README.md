@@ -12,7 +12,7 @@
 <a href="https://twitter.com/davelasquez15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davelasquez15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielvh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel_vh01" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_vh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_vh01" height="30" width="40" /></a>
-  <a href="https://danielvh01.github.io/" target="blank"><img align="center" src="https://img.freepik.com/free-vector/www-icon_23-2147934051.jpg" alt="davelasquez15" height="30" width="40" /></a>
+  <a href="https://danielvh01.github.io/" target="blank"><img align="center" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" alt="davelasquez15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

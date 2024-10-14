@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Daniel Velasquez</h1>
-<h3 align="center">Un joven estudiante de Ingenieria en informatica y sistemas que actualmente se dedica al desarrollo de software y proyectos.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielvh01&label=Profile%20views&color=0e75b6&style=flat" alt="danielvh01" /> </p>
 

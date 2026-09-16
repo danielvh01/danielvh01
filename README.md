@@ -32,11 +32,17 @@
 
 <br/>
 
-<h2 align="center"> 📊 Métricas del Sistema </h2>
+<h2 align="center"> 📊 Métricas </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielvh01&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielvh01&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielvh01&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielvh01&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielvh01&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>

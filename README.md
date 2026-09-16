@@ -33,12 +33,6 @@
 <br/>
 
 <h2 align="center"> 📊 Métricas </h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielvh01&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielvh01&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&layout=compact" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
